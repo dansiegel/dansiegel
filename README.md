@@ -25,5 +25,3 @@ I've been a scuba diver since I was 13
 ##### 🤔 Be Sure to sign up as a GitHub Sponsor
 
 If you're making use of Prism for Xamarin.Forms (soon .NET MAUI) or Prism for Uno/WinUI be sure to sign up as a GitHub Sponsor. Plus get access to the Sponsor Connect site with special sponsor only content and a private Discord.
-
-![Sponsor Me](https://camo.githubusercontent.com/7b8126c39471a8e8ef21798fa9167f5f2662ca13/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f30352f6d6f6e612d68656172742d66656174757265642e706e673f6669743d363030253243333135)
