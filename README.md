@@ -1,18 +1,14 @@
-### Hi there 👋
+### Hi there, I'm [Dan Siegel][website] 👋
 
-I'm Dan Siegel... but you probably already knew that.
+### Connect with me:
 
-<!--
-**dansiegel/dansiegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="dansiegel.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="dansiegel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="DanJSiegel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="DanSiegel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="_dansiegel_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
--  ...
-- 💬 Ask me about ...
--->
+<br />
 
 ##### 📫 Hire me for help
 
@@ -25,3 +21,16 @@ I've been a scuba diver since I was 13
 ##### 🤔 Be Sure to sign up as a GitHub Sponsor
 
 If you're making use of Prism for Xamarin.Forms (soon .NET MAUI) or Prism for Uno/WinUI be sure to sign up as a GitHub Sponsor. Plus get access to the Sponsor Connect site with special sponsor only content and a private Discord.
+
+### Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+[website]: https://dansiegel.net
+[twitter]: https://twitter.com/DanJSiegel
+[youtube]: https://youtube.com/dansiegel
+[instagram]: https://instagram.com/_dansiegel_
+[linkedin]: https://linkedin.com/in/DanSiegel
+[prismFormsPlaylist]: https://www.youtube.com/playlist?list=PLKVmlgXY1uPL3RQVaypbwJup-gjz_gWjT
+[twitchArchivesPlaylist]: https://www.youtube.com/playlist?list=PLKVmlgXY1uPI9UrMzxoLFkGFsxY6wqbcl
