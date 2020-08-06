@@ -25,11 +25,11 @@ If you're making use of Prism for Xamarin.Forms (soon .NET MAUI) or Prism for Un
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Setting up Xamarin UI Tests for Prism with Sweeky](https://www.youtube.com/watch?v=gsqf52Q5QOw)
 - [Look it's so Shiny - Using Shiny Lib with Allan Ritchie](https://www.youtube.com/watch?v=HWqWqj--JIU)
 - [XAML Hot Reload - The Journey & What's New with Maddy Leger](https://www.youtube.com/watch?v=9s_AVsaY_FE)
 - [Prism Shell Support - Initial Setup - Building from Source](https://www.youtube.com/watch?v=8TkzXq3sg2E)
 - [Prism.Forms - Contoso Cookbook](https://www.youtube.com/watch?v=KRAKRfu1bLQ)
-- [Ad-Hoc Review Xamarin.Forms 4.5 - Preview 1 - Embedded Fonts](https://www.youtube.com/watch?v=jrf4FQPyFEE)
 <!-- YOUTUBE:END -->
 
 [website]: https://dansiegel.net
