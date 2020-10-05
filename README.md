@@ -25,11 +25,11 @@ If you're making use of Prism for Xamarin.Forms (soon .NET MAUI) or Prism for Un
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AvantiPoint Font Generator for Xamarin.Forms & AP.MobileToolkit](https://www.youtube.com/watch?v=iLPX0lvvEpc)
 - [Uno Source Generators with Jérôme Laban](https://www.youtube.com/watch?v=ju8aUa-clHs)
 - [Prism PR Reviews & Writing Tests for Prism Library](https://www.youtube.com/watch?v=u4QaUb2gYbA)
 - [Prism for Uno PR Reviews](https://www.youtube.com/watch?v=mkUEmyPxP7M)
 - [Setting up Xamarin UI Tests for Prism with Sweeky](https://www.youtube.com/watch?v=gsqf52Q5QOw)
-- [Look it's so Shiny - Using Shiny Lib with Allan Ritchie](https://www.youtube.com/watch?v=HWqWqj--JIU)
 <!-- YOUTUBE:END -->
 
 [website]: https://dansiegel.net
