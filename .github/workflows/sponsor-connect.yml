@@ -1,0 +1,13 @@
+name: Sponsor Connect Sync
+on:
+  schedule:
+    - cron: 0 * * * * # Every hour (UTC)
+jobs:
+  sponsorconnect-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Sponsor Sync
+        uses: dansiegel/SponsorConnectSync@1
+        with:
+          client_id: ${{ secrets.CLIENT_ID }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
