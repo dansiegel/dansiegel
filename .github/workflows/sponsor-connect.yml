@@ -1,7 +1,7 @@
 name: Sponsor Connect Sync
-on:
-  schedule:
-    - cron: 0 * * * * # Every hour (UTC)
+# on:
+#   schedule:
+#     - cron: 0 * * * * # Every hour (UTC)
 jobs:
   sponsorconnect-sync:
     runs-on: ubuntu-latest
