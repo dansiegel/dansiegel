@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run Sponsor Sync
-        uses: dansiegel/SponsorConnectSync@1
+        uses: dansiegel/SponsorConnectSync@1.0
         with:
           client_id: ${{ secrets.CLIENT_ID }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
