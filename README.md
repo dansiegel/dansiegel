@@ -2,11 +2,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dansiegel.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="dansiegel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="DanJSiegel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="DanSiegel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="_dansiegel_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="dansiegel.net" width="22px" src="images/globe.svg" />][website]
+[<img align="left" alt="dansiegel | YouTube" width="22px" src="images/youtube.svg" />][youtube]
+[<img align="left" alt="DanJSiegel | Twitter" width="22px" src="images/twitter.svg" />][twitter]
+[<img align="left" alt="DanSiegel | LinkedIn" width="22px" src="images/linkedin.svg" />][linkedin]
+[<img align="left" alt="_dansiegel_ | Instagram" width="22px" src="images/instagram.svg" />][instagram]
 
 <br />
 
