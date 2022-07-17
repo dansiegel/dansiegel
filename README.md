@@ -16,11 +16,18 @@ Did you know I'm a consultant and am available to help make sure your project is
 
 ##### ⚡ Fun fact
 
-I've been a scuba diver since I was 13
+In addition to being in tech, I'm a Tech Diver having been to 100 meters, and been diving since I was 13.
 
 ##### 🤔 Be Sure to sign up as a GitHub Sponsor
 
-If you're making use of Prism for Xamarin.Forms (soon .NET MAUI) or Prism for Uno/WinUI be sure to sign up as a GitHub Sponsor. Sponsors get access to the [Sponsor Connect](https://sponsorconnect.dev) site with all of my CI packages, and special access packages like the Prism.Magician. Plus sponsors get access to the private Sponsor Connect Discord.
+If you're making use of Prism for Xamarin.Forms, .NET MAUI or Prism for Uno/WinUI be sure to sign up as a GitHub Sponsor. Sponsors get access to the [Sponsor Connect](https://sponsorconnect.dev) site with all of my CI packages, and special access packages like the Prism.Magician. Plus sponsors get access to the private Sponsor Connect Discord.
+
+<div align="start">
+  <a href="https://github.com/dansiegel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dansiegel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansiegel&layout=compact&langs_count=7&theme=react"/>
+  </a>
+</div>
 
 ### Latest YouTube Videos
 
