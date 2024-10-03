@@ -1,5 +1,10 @@
 ### Hi there, I'm [Dan Siegel][website] 👋
 
+
+![Popular packages](https://img.shields.io/endpoint?label=popular%20packages&style=social&logo=nuget&url=https%3A%2F%2Fsponsorlink.devlooped.com%2Fnuget%2Fall?dansiegel)
+![Daily downloads](https://img.shields.io/endpoint?label=Daily%20downloads&style=social&logo=nuget&url=https%3A%2F%2Fsponsorlink.devlooped.com%2Fnuget%2Fdl?dansiegel)
+
+
 ### Connect with me:
 
 [<img align="left" alt="dansiegel.net" width="22px" src="images/globe.svg" />][website]
